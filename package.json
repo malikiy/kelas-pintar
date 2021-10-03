@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "debug": "ndb server.js"
+    "start": "node server.js"
   },
   "author": "Muhammad Yusuf Malik",
   "license": "ISC",
